@@ -1,2 +1,2 @@
 # DA-Python-Project
-Developed a Python-based Survey Feedback Analyzer that stores, cleans, and processes textual feedback using dictionaries, loops, and functions. Implemented text cleaning, keyword analysis, rating insights, longest-feedback detection, and unique word extraction, enabling meaningful sentiment-based analysis.
+Analyzed marketing campaign performance by loading campaign data, cleaning, and performing descriptive and exploratory analysis. Visualized acquisition cost vs ROI, conversion rates by channel and campaign type, engagement and temporal trends, geographic impact, and customer-segment effectiveness to generate actionable optimization insights.
